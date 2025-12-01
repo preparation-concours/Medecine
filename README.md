@@ -1,3 +1,7 @@
+---
+og_locale: "fr_FR"
+---
+
 # Préparation au Concours de Médecine – Extraits du Manuel _Visa Médecine_ (Version Démo)
 
 Bienvenue dans le dépôt officiel contenant des **extraits du manuel Visa Médecine – Version Démo**, destiné aux étudiants préparant le **concours de médecine au Maroc**.

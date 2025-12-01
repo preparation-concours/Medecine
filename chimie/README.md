@@ -1,3 +1,7 @@
+---
+og_locale: "fr_FR"
+---
+
 <p align="center">
   <a href="../svt">Svt</a> •
   <a href="../maths">Mathématiques</a> •
@@ -76,12 +80,12 @@ Pour aller plus loin dans votre préparation, vous pouvez accéder aux ressource
 ### 📘 Manuel Complet _Visa Médecine_
 
 Accédez au manuel intégral, aux QCM complets et aux corrigés vidéo :  
-👉 https://medecine.visaconcours.ma/correction/chimie
+👉 [https://medecine.visaconcours.ma/correction/chimie](https://medecine.visaconcours.ma/correction/chimie)
 
 ### 🎓 Préparation au Concours (Présentiel & Distanciel)
 
 Rejoignez la préparation complète au concours de médecine, disponible en **présentiel** et **en ligne** :  
-👉 https://concours.visaschool.ma/preparation-concours/medecine
+👉 [https://concours.visaschool.ma/preparation-concours/medecine](https://concours.visaschool.ma/preparation-concours/medecine)
 
 ---
 
