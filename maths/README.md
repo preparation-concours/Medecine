@@ -1,0 +1,61 @@
+# 📐 Mathématiques – Extraits du Manuel Visa Médecine (Version Démo)
+
+Ce dossier contient des extraits du manuel _Visa Médecine_ dédiés à la préparation de l’épreuve de Mathématiques du concours de médecine au Maroc.  
+Ces ressources permettent aux étudiants de s’entraîner sur des exercices représentatifs du concours.
+
+---
+
+## 📄 Extraits inclus
+
+Voici quelques pages extraites du manuel :
+
+![Question N°1](./Q1.png)  
+![Question N°2](./Q2.png)
+
+> _Les images ci-dessus sont des aperçus tirés de la version démo._
+
+---
+
+## 🎥 Corrections – Vidéos d’explications (Version Déмо)
+
+Les vidéos sont disponibles en double hébergement pour assurer la pérennité des liens.
+
+### Archive.org (source principale)
+
+- ▶️ [Correction – Question N°1](https://archive.org/details/q-1_20251114_20251114_1118)
+- ▶️ [Correction – Question N°2](https://archive.org/details/q-2_20251114_20251114_1130)
+
+### YouTube (miroir)
+
+- ▶️ [Correction – Question N°1](https://youtu.be/LelzugPK9JI)
+- ▶️ [Correction – Question N°2](https://youtu.be/l3v1_jGuI9Y)
+
+---
+
+## 📘 Contenu proposé dans ce répertoire
+
+- Exercices (extraits)
+- QCM Mathématiques
+- Explications détaillées (démo)
+
+**⚠️ Ces extraits ne représentent qu’une partie limitée du manuel complet.**
+
+---
+
+## 🎓 Accès à la Formation Complète
+
+Pour aller plus loin dans votre préparation, vous pouvez accéder aux ressources complètes :
+
+### 📘 Manuel Complet _Visa Médecine_
+
+Accédez au manuel intégral, aux QCM complets et aux corrigés vidéo :  
+👉 https://medecine.visaconcours.ma/correction/math
+
+### 🎓 Préparation au Concours (Présentiel & Distanciel)
+
+Rejoignez la préparation complète au concours de médecine, disponible en **présentiel** et **en ligne** :  
+👉 https://concours.visaschool.ma/preparation-concours/medecine
+
+---
+
+**Visa Médecine – Votre partenaire vers la réussite au concours de médecine.**
