@@ -1,7 +1,3 @@
----
-og_locale: "fr_FR"
----
-
 <p align="center">
   <span>Svt</span> •
   <a href="../maths">Mathématiques</a> •
